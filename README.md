@@ -58,13 +58,13 @@ Este projeto é composto por **dois fluxos automatizados que se complementam**:
 - Gmail (Enviar e-mail de confirmação)
 
 ### Visualização do Fluxo
-![Fluxo 2 - Gerador de Contratos](./images/workflow2.png)
+https://github.com/Jh5611/n8n-ai-attendant-contract-generator.PTBR/blob/main/Workfolw_1.jpeg
 
 ---
 
 ## 🔗 Como os Fluxos se Conectam
 
-```
+
 Cliente entra em contato pelo Telegram
         ↓
 [Fluxo 1] IA atende e convence o cliente
@@ -72,7 +72,7 @@ Cliente entra em contato pelo Telegram
 Cliente preenche o formulário de inscrição
         ↓
 [Fluxo 2] Contrato é gerado e enviado automaticamente
-```
+
 
 ---
 
@@ -104,8 +104,8 @@ Embora esta implementação utilize o **Telegram**, a mesma lógica de automaç�
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
-Desenvolvido por **[Seu Nome]** — Apaixonada por automação e Inteligência Artificial.
+Desenvolvido por **Jessé Honório Carvalho** — Apaixonada por automação e Inteligência Artificial.
 
 Me encontre no [LinkedIn](https://www.linkedin.com/in/seuperfil) | [GitHub](https://github.com/seuusuario)
