@@ -109,4 +109,4 @@ Embora esta implementação utilize o **Telegram**, a mesma lógica de automaç�
 
 Desenvolvido por **Jessé Honório Carvalho** — Apaixonada por automação e Inteligência Artificial.
 
-Me encontre no [LinkedIn](www.linkedin.com/in/jessé-honório-carvalho-3125892b5) | [GitHub](https://github.com/Jh5611)
+Me encontre no [LinkedIn]( www.linkedin.com/in/jessé-honório-carvalho-3125892b5 ) | [GitHub](https://github.com/Jh5611)
