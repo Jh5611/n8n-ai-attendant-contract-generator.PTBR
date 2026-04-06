@@ -36,6 +36,7 @@ Este projeto é composto por **dois fluxos automatizados que se complementam**:
 - Formatter
 
 ### Visualização do Fluxo
+https://github.com/Jh5611/n8n-ai-attendant-contract-generator.PTBR/blob/main/Workfolw_1.jpeg
 
 
 ---
@@ -58,7 +59,7 @@ Este projeto é composto por **dois fluxos automatizados que se complementam**:
 - Gmail (Enviar e-mail de confirmação)
 
 ### Visualização do Fluxo
-https://github.com/Jh5611/n8n-ai-attendant-contract-generator.PTBR/blob/main/Workfolw_1.jpeg
+https://github.com/Jh5611/n8n-ai-attendant-contract-generator.PTBR/blob/main/Workfolw_2.jpeg
 
 ---
 
@@ -108,4 +109,4 @@ Embora esta implementação utilize o **Telegram**, a mesma lógica de automaç�
 
 Desenvolvido por **Jessé Honório Carvalho** — Apaixonada por automação e Inteligência Artificial.
 
-Me encontre no [LinkedIn](https://www.linkedin.com/in/seuperfil) | [GitHub](https://github.com/seuusuario)
+Me encontre no [LinkedIn](www.linkedin.com/in/jessé-honório-carvalho-3125892b5) | [GitHub](https://github.com/Jh5611)
